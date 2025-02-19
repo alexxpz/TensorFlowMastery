@@ -1,1 +1,1 @@
-This Repository contains ressources and work for the TensorFlow Mastery program.
+This Repository contains resources and work done for the TensorFlow Mastery program.
